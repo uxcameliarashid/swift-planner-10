@@ -1,0 +1,30 @@
+# swift-planner-10
+
+Network engineer | observability | currently building things | Warsaw
+
+拿来练手的小仓库
+
+## 用法
+
+```bash
+./run.sh data.txt
+```
+
+输出：
+
+```
+   3  error: timeout
+   1  warn: retry
+---
+2 unique / 4 lines
+```
+
+## 待办
+
+- [ ] 加个输出格式选项
+- [ ] 加个 CI
+- [ ] 补点测试
+
+## License
+
+MIT
